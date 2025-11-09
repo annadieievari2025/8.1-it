@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\8.1 rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0F825-C872-4835-8EAD-052143C76678}|8.1 rec.vcxproj|C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\8.1 rec\\8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAA0F825-C872-4835-8EAD-052143C76678}|8.1 rec.vcxproj|solutionrelative:8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18C2EEA-19B6-3502-90CE-21CDE05BF75F}|..\\UnitTest8.1rec\\UnitTest8.1rec.vcxproj|C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\UnitTest8.1rec\\UnitTest8.1rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest8.1rec.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\UnitTest8.1rec\\UnitTest8.1rec.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest8.1rec\\UnitTest8.1rec.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\UnitTest8.1rec\\UnitTest8.1rec.cpp",
+              "RelativeToolTip": "..\\UnitTest8.1rec\\UnitTest8.1rec.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-09T12:11:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8.1rec.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\8.1 rec\\8.1rec.cpp",
+              "RelativeDocumentMoniker": "8.1rec.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u043D\u0430\\OneDrive\\Desktop\\LABS\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F \u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u0430 8\\8.1 rec\\8.1 rec\\8.1rec.cpp",
+              "RelativeToolTip": "8.1rec.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-09T11:52:09.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

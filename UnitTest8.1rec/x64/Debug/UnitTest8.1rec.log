@@ -1,0 +1,6 @@
+﻿  UnitTest8.1rec.cpp
+C:\Users\Анна\OneDrive\Desktop\LABS\Алгоритмізація та програмування\Лаба 8\8.1 rec\8.1 rec\8.1rec.cpp(35,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.1rec.cpp')
+  
+     Creating library C:\Users\Анна\OneDrive\Desktop\LABS\Алгоритм?зац?я та програмування\Лаба 8\8.1 rec\8.1 rec\x64\Debug\UnitTest8.1rec.lib and object C:\Users\Анна\OneDrive\Desktop\LABS\Алгоритм?зац?я та програмування\Лаба 8\8.1 rec\8.1 rec\x64\Debug\UnitTest8.1rec.exp
+  UnitTest8.1rec.vcxproj -> C:\Users\Анна\OneDrive\Desktop\LABS\Алгоритмізація та програмування\Лаба 8\8.1 rec\8.1 rec\x64\Debug\UnitTest8.1rec.dll
